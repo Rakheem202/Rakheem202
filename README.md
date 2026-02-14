@@ -1,6 +1,6 @@
-👋 Hi, I’m @Rakheem202
-🔭 Data Science, Data & BI Analyst, Data Engineering
-📫 rakheemofileotukile@gmail.com
+-👋 Hi, I’m @Rakheem202
+-🔭 Data Science, Data & BI Analyst, Data Engineering
+-📫 rakheemofileotukile@gmail.com
 
 <!--
 **Rakheem202/Rakheem202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
