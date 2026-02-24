@@ -1,6 +1,6 @@
 -👋 Hi, I’m @Rakheem202
 
-🔭 Data Science, Data & BI Analyst, Data Engineering
+🔭 Data Science, Data & BI Analyst, Data & AI Engineering,
 
 📫 rakheemofileotukile@gmail.com
 
