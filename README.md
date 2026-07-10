@@ -1,6 +1,13 @@
 -👋 Hi, I’m @Rakheem202
 
-🔭 Data Science, Data & BI Analyst, Data & AI Engineering,
+🔭 Data Science & Analytical Engineer| PowerBi Specialist
+
+I'm a Business Intelligence & Data Analytics major with a passion for transforming raw data into meaningful business solutions. My work focuses on Business Intelligence, Data Analytics, Data Science and Data Engineering, where I build projects that solve real world problems through data driven insights, automation and scalable solutions.
+
+🔭SKILLS
+ 🗄️ SQL 🐍 Python for Data Science 📊 Power BI 🤖 Machine Learning
+💹STATA ❄️Snowflake 🛞Kubernetes 🃏Julia Programming
+
 
 📫 rakheemofileotukile@gmail.com
 
